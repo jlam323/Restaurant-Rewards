@@ -1,9 +1,19 @@
 /**
  * Created by 100628824 on 2/10/2017.
  */
-public class GUIcontroller {
-    public void buybtnclick(){
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.text.Text;
+import javafx.scene.control.*;
 
+
+
+public class GUIcontroller {
+
+   @FXML private Label user3lbl ;
+
+    @FXML void buybtnclick(){
+     user3lbl.setText("heusen");
     }
     public void redeem3btnclick(){
 
@@ -17,6 +27,7 @@ public class GUIcontroller {
     }
 
     public void updatename1(){
+
 
     }
     public void updatename2(){
