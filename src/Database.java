@@ -35,4 +35,12 @@ public class Database {
             return true;
         }
     }
+
+    public String[] getCustomers(){
+        return customers;
+    }
+
+    public int[] getPoints(){
+        return points;
+    }
 }
