@@ -7,7 +7,7 @@ public class Database {
     int points[];
 
     final int NUM_CUSTOMERS = 5;    //total number of customers. unused for now
-    final int CURRENT_USER = 3;     //position of the demo-er in the array
+    final int CURRENT_USER = 2;     //position of the demo-er in the array
 
     //default constructor to populate the database with preset names and points
     public Database(){
