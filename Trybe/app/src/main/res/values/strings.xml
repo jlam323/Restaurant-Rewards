@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRYBE Android</string>
+    <string name="welcome_message">Welcome to Trybe</string>
+    <string name="send_button">Send</string>
+</resources>
