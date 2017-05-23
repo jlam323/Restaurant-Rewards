@@ -2,4 +2,7 @@
     <string name="app_name">TRYBE Android</string>
     <string name="welcome_message">Welcome to Trybe</string>
     <string name="send_button">Send</string>
+    <string name="change_screen">Switch</string>
+    <string name="screen2_welcome">This is screen number 2.</string>
+    <string name="screen2_button">Go Back</string>
 </resources>
