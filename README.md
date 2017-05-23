@@ -1,2 +1,2 @@
-# Tribe
-Start-up project to create a rewards system app for customers and restaurant owners.
+# Rewards System
+Start-up project to create a rewards system app for customers and restaurant owners. App named removed for privacy.
