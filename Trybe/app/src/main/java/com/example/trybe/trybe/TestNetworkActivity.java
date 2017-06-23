@@ -1,11 +1,14 @@
 package com.example.trybe.trybe;
 
+
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+//public class TestNetworkActivity extends AppCompatActivity {
 public class TestNetworkActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
     //Switch screens
     public void switchScreen(View view){
-        Intent switchScreenIntent = new Intent(this, TestNetworkActivity.class);
+        //Intent switchScreenIntent = new Intent(this, TestNetworkActivity.class);
+        Intent switchScreenIntent = new Intent(this, TestNetworkFunctions.class);
         //final int result = 1;
         //intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(switchScreenIntent);
